@@ -4,7 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am **Zilin Zheng (郑梓霖)**, a master's student at **Sun Yat-sen University**. My research interests lie in **visual generative modeling**, particularly in **video generation and motion synthesis**.
+I am **Zilin Zheng (郑梓霖)**, a master's student at **[Sun Yat-sen University](https://www.sysu.edu.cn/)**, where I am a member of the **[HCP Lab](https://www.sysu-hcp.net/)**, advised by **[Prof. Guanbin Li](https://guanbinli.com/)**.
+
+My research interests lie in **visual generative modeling**, particularly **video generation and motion synthesis**.
+
+## Education
+
+**Sun Yat-sen University**  
+M.S. Student
 
 ## Research Interests
 
