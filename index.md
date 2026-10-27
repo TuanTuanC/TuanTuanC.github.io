@@ -8,10 +8,16 @@ I am **Zilin Zheng (郑梓霖)**, a master's student at **[Sun Yat-sen Universit
 
 My research interests lie in **visual generative modeling**, particularly **video generation and motion synthesis**.
 
+
 ## Education
 
 **Sun Yat-sen University**  
-M.S. Student
+Master's Student in Computer Science and Technology  
+*Sep. 2025 – Present*
+
+**Sun Yat-sen University**  
+Bachelor's Degree in Computer Science and Technology  
+*Sep. 2021 – Jun. 2025*
 
 ## Research Interests
 
