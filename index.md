@@ -34,3 +34,11 @@ Bachelor's Degree in Computer Science and Technology
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+## Honors & Awards
+
+- **National Scholarship for Undergraduate Students**, 2022–2023, 2023–2024.
+- **Li Xuerou Foundation Scholarship**, Sun Yat-sen University, 2023–2024.
+- **First-Class Graduate Scholarship**, Sun Yat-sen University, 2025–2026, 2026–2027.
+- **Outstanding Graduate**, Sun Yat-sen University, 2025.
+- **Outstanding Undergraduate Thesis**, Sun Yat-sen University, 2025.
