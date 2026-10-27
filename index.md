@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am **Zilin Zheng (郑梓霖)**, a master's student at **Sun Yat-sen University**. My research interests lie in **visual generative modeling**, particularly in **video generation and motion synthesis**.
 
 ## Research Interests
 
